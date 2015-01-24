@@ -2,26 +2,17 @@
 
 21. *cohesive* coherent
   - They failed to develop a coherent economic strategy.
-
 46. [crush+munch] crunch
   - The crunch came when she returned from America.
 59. *scurry* *scuttle* scamper
-60. moss
 66. *make a sudden move with your body* [flenchir~turn aside] flinch
 69. *weaken* *water down* [dilut~dissolved] dilute
 71. *allow* *accord* [granter~consent to support] grant
 75. *edge* *verge* brink
 
 76. *appearance* *guise* [sembler~seem] semblance
-77. *oversimplified* *simplistic* [facilis~easy] facile
-78. *correct* [rectus~right] rectify
 79. *well-being* welfare
-80. determinant
 82. *intuitive* *instinctive* [viscera~large organs] visceral
-85. *move away* [back+go] recede
-86. *outburst* bout
-87. [sprenekelen] sprinkle
-88. *opponent* [to+to turn] adversary
 89. *very large rock* [boulderstone] boulder
 90. *with attention to details* [rigere~be stiff] rigorous
 91. *active* [vigor~be lively] vigorous
@@ -31,7 +22,6 @@
 95. *lucky by accident* [a lucky stroke] fluke
 96. *unable to be seen or felt* imperceptible
 97. *distinguished* illustrious
-98. *serious* grim
 99. *period when sb holds important job* [tenir~to hold] tenure
 100. *appear as large shape that is not clear* [lomen~move slowly] loom
 
@@ -64,8 +54,6 @@
   - My remarks clearly nettled her.
 87. vile
   - The weather was really vile most of the time.
-88. *shocking* harrowing
-  - The book makes harrowing reading.
 89. grapple
   - They managed to grapple him to the ground.
 90. pickle
@@ -74,8 +62,6 @@
   - Staple the invoice to the receipt.
 92. *unacceptable* deplorable
   - They were living the most deplorable conditions.
-93. *untouchable* inalienable
-  - the inalienable right to decide your own future
 96. quite a few *quite a little* *quite a number* *quite a bit*
   - I have quite a few - enough for spare time.
 97. race against time

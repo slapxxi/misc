@@ -1,5 +1,26 @@
 # Tree
 
++ **correct**
+  - correct
+  - rectify
+
++ **simple**
+  - simple
+    - simplistic
+    - oversimplified
+    - facile
+
++ **move**
+  - move
+    - make a move
+    - flinch
+
++ **touch**
+  - touch
+    - touchable
+      - untouchable
+      - inalienable
+
 + **guess**
   - guess
   - hazard
@@ -70,6 +91,7 @@
   - serious
   - dire
   - severe
+  - grim
 
 + **witness**
   - witness
@@ -176,7 +198,7 @@
 + **spread**
   - spread
     - widespread
-    - rife [rifr~acceptable]
+    - rife [~acceptable]
 
 + **remind**
   - remind
@@ -416,6 +438,7 @@
 + **shock**
   - shock
     - shocking
+    - harrowing *very shocking and making you feel very upset*
     - staggering
     - flagrant *shocking because of no respect*
     - blatant *done in obvious careless way*
@@ -815,7 +838,8 @@
   - predict
     - predictable
       - unpredictable
-        - volatile
+        - volatile *likely to change suddenly*
+        - unstable
         - variable
     - prediction
   - forecast
