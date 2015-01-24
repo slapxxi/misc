@@ -1,5 +1,55 @@
 # Tree
 
++ **complex**
+  - complex
+  - complicated
+    - make complicated
+    - complicate
+    - uncomplicated
+  - involved
+  - intricate *having a lot of small details that fit together*
+  - convoluted *extremely complicated*
+    - a convoluted argument, explanation
+
++ **now**
+  - at the moment
+  - at present
+  - currently
+  - presently
+
++ **help**
+  - help
+    - helpful
+  - assist
+    - give assistance to
+    - with the assistance of
+    - come to sb's assistance
+  - aid
+    - in aid of
+    - with the aid of
+    - come to sb's aid
+
++ **vague**
+  - vague
+    - have a vague impression, memory, recollection of sth
+    - vagueness
+    - vaguely
+      - slightly
+  - unclear
+  - muddy
+    - muddy the waters *make a simple situation confused*
+    - muddle *put things in the wrong order*
+
++ **attempt**
+  - attempt
+    - in an attempt to
+    - make no attempt
+    - at the first attempt
+  - try
+    - try your luck
+  - endeavor *attempt to do sth new or difficult*
+    - in an endeavor to
+
 + **correct**
   - correct
   - rectify
@@ -8,12 +58,14 @@
   - simple
     - simplistic
     - oversimplified
-    - facile
+    - facile *produced with no effort or careful thought*
+      - a facile remark/generalization
+  - straightforward
 
 + **move**
   - move
     - make a move
-    - flinch
+  - flinch *make a sudden movement with your body as a result of pain*
 
 + **touch**
   - touch
@@ -44,6 +96,7 @@
   - body
   - hand
     - join hands
+    - lend a hand to
   - finger
     - lay a finger on
   - face
@@ -76,10 +129,18 @@
   - cry
     - far cry *What you did was a far cry from what you said you were going to do.*
 
-+ **short**
++ **small**
+  - small
   - short
     - shortage
     - fall short of *We fell short of the money at the end of the month.*
+    - shorten
+      - abbreviate
+      - condense
+      - abridge *make shorter by leaving parts*
+        - unabridged
+  - little
+  - tiny
 
 + **mother**
   - mother
@@ -89,9 +150,11 @@
 
 + **serious**
   - serious
-  - dire
-  - severe
-  - grim
+  - dire *very serious*
+  - severe *extremely serious*
+  - grim *looking or sounding very serious*
+    - a grim face/look/smile
+    - grim determination
 
 + **witness**
   - witness
@@ -112,7 +175,6 @@
 + **invite**
   - invite
     - invitation
-    - prompt
 
 + **fail**
   - fail
@@ -185,8 +247,16 @@
 + **mean**
   - mean
     - meaning
+      - meaningful
+      - significant
+      - relevant
+      - worthwhile
+      - telling
     - tenor *general character or meaning*
     - sense
+  - means
+    - by any means
+    - by means of
 
 + **attract**
   - attract
@@ -203,6 +273,7 @@
 + **remind**
   - remind
   - resonate
+  - prompt
 
 + **apply**
   - apply
@@ -413,7 +484,9 @@
 + **lead**
   - lead to
   - cause
-    - precipitate
+    - precipitate *make sth bad happen sooner*
+  - produce
+  - result in
 
 + **interest**
   - interest
@@ -450,9 +523,11 @@
     - respectful
   - respect
     - disrespect
-    - contempt [intensive force+despise]
+    - contempt
+      - with contempt
+      - beneath contempt
     - scorn *feeling that sb/sth is stupid or not good enough*
-    - disdain
+    - disdain *feeling that sb is not good enough for attention*
 
 + **polite**
   - polite
@@ -465,6 +540,8 @@
   - dirt
     - dirty
       - quick and dirty
+      - do sb's dirty work
+      - dirty joke, mind etc.
     - foul *dirty and smelling bad*
     - filthy *disgustingly dirty*
   - dust
@@ -494,6 +571,7 @@
   - protect
     - protector
       - patron
+  - shield
 
 + **suffer**
   - suffer
@@ -505,7 +583,8 @@
     - ability
     - skill
       - skillful
-      - adroit
+      - adroit *skillful and clever esp. in dealing with people*
+        - adroitness
   - unable
   - capable
     - capable of
@@ -561,16 +640,19 @@
   - disturb
   - obscure
   - obstruct
+  - trouble
+    - stay out of trouble
+    - in trouble
 
 + **hate**
   - hate
-  - despise
-  - detest
+  - despise *dislike and have no respect*
+  - detest *hate very much*
   - dislike
-  - loathe
-  - abhor
-  - disdain
-  - execrate
+  - loathe *dislike very much*
+  - abhor *hate esp. for moral reasons*
+  - disdain *think someone is not good enough to deserve your respect*
+    - with disdain
 
 + **prefer**
   - prefer
@@ -585,8 +667,7 @@
     - put to use
     - make use of
     - useful
-      - helpful
-      - expedient [put in order]
+      - expedient *useful for particular purpose*
         - inexpedient
   - avail
   - exploit
@@ -784,7 +865,10 @@
       - easy to come by
       - make easier
         - facilitate
-  - alleviate
+  - relieve *remove unpleasant feeling*
+  - alleviate *make less severe*
+  - mitigate *make less harmful*
+  - soothe *make sb anxious calmer*
 
 + **reason**
   - reason
