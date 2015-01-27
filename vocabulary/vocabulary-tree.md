@@ -1,5 +1,53 @@
 # Tree
 
++ **change**
+  - change
+    - make changes to
+  - alter
+    - make alterations to
+  - adjust
+  - correct
+    - rectify *put right sth that is wrong*
+    - amend *change slightly in order to correct mistake or improve*
+  - edit
+
++ **diverse**
+  - diverse
+    - diversify
+    - vary
+      - bring variety to
+      - various
+  - sundry *various, not important enough to be name separately*
+    - sunder *split or break apart esp. by force*
+  - manifold *of many different types*
+
++ **although**
+  - although
+  - even though, even if
+  - despite the fact that
+  - in spite the fact that
+  - for all that
+
++ **require**
+  - require
+    - required
+    - necessary
+    - requisite *necessary for a particular purpose*
+    - mandatory *required by law*
+    - compulsory *must be done because of law or rule*
+  - demand
+  - obligate
+    - obligatory *must be done because of law, rule etc.*
+
++ **persuade**
+  - persuade
+  - convince
+  - induce *persuade or influence to do sth*
+  - entice *persuade by offering sth*
+  - lure *persuade or trick by promising a reward*
+    - allure
+  - trick
+
 + **complex**
   - complex
   - complicated
@@ -49,10 +97,6 @@
     - try your luck
   - endeavor *attempt to do sth new or difficult*
     - in an endeavor to
-
-+ **correct**
-  - correct
-  - rectify
 
 + **simple**
   - simple
@@ -118,6 +162,7 @@
     - if so *She must be late. If so, we'll eat without her.*
   - even if
   - only if
+  - as if
 
 + **trust**
   - trust
@@ -165,6 +210,9 @@
 + **loot**
   - loot
   - plunder
+  - pillage *steal things, in war, using violence*
+  - rob
+    - robbery
 
 + **part**
   - part
@@ -776,12 +824,9 @@
     - substantiate
 
 + **ask**
-  - persuade
-  - convince
-  - induce *persuade or influence to do sth*
-  - entice *persuade by offering sth*
-  - lure
-    - allure
+  - ask
+  - request
+  - solicit *ask for sth such as support, money, or information*
   - beg
     - beseech
     - implore
