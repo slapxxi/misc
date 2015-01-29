@@ -1,5 +1,90 @@
 # Tree
 
++ **control**
+  - control
+    - under control
+  - administer
+  - govern
+  - rule
+
++ **oppose**
+  - oppose
+    - opponent
+    - adversary
+  - opposite
+    - adverse
+
++ **regret**
+  - regret
+    - regret
+    - compunction
+  - be sorry about
+  - feel contrite about
+  - feel remorse about
+
++ **fame**
+  - fame
+    - famous
+  - renown
+    - renowned
+  - eminence
+    - eminent
+
++ **occupy**
+  - occupy
+    - occupation
+    - preoccupation
+
++ **mature**
+  - mature
+    - premature
+      - prematurely
+
++ **explain**
+  - explain
+    - explainable
+    - explicable *that can be explained or understood*
+  - elaborate *explain in a more detailed way*
+  - illustrate
+  - account for *to be an explanation for*
+  - unravel *explain sth difficult or mysterious*
+
++ **write**
+  - write
+    - writing
+    - treatise *a long and serious piece of writing*
+    - paper
+
++ **reel**
+  - reel *катушка*
+    - gag reel
+
++ **plant**
+  - plant
+  - crop *plant grown in large quantities as food*
+
++ **prove**
+  - prove
+    - disprove *show that sth is wrong*
+    - refute *prove that sth is wrong*
+    - rebut *say or prove that a statement is false*
+
++ **old**
+  - old
+  - elderly *polite 'old'*
+    - aged *very old*
+  - worn
+    - worn out
+    - shabby *in poor condition because was used a lot*
+    - tattered *old and torn*
+  - stale *no longer fresh*
+    - stall *make sb wait so that you have more time*
+
++ **weak**
+  - weak
+    - weaken
+    - languish
+
 + **change**
   - change
     - make changes to
@@ -116,9 +201,12 @@
     - touchable
       - untouchable
       - inalienable
+  - tap
 
 + **guess**
   - guess
+  - estimate
+  - suppose
   - hazard
 
 + **lie**
@@ -229,6 +317,7 @@
     - failure
     - fault
       - faulty
+    - mistake
   - flunk
 
 + **danger**
@@ -312,6 +401,11 @@
       - attractiveness
       - allure
       - quaint
+  - tempt
+    - tempting
+  - charm
+    - charming
+  - allure
 
 + **spread**
   - spread
@@ -512,6 +606,7 @@
   - differ
     - difference
     - disparity
+  - vary
 
 + **exist**
   - exist
@@ -613,7 +708,7 @@
   - show
     - showtime
   - demonstrate
-  - manifest
+  - manifest *show sth clearly*
 
 + **protect**
   - protect
@@ -657,6 +752,7 @@
 + **die**
   - die
     - dying
+  - perish *die in a sudden violent way*
   - expire
   - pass away
     - make it
@@ -722,10 +818,6 @@
   - harness
   - utilize
   - employ
-  - control
-    - under control
-    - administer
-    - govern
 
 + **deal**
   - cope
@@ -844,6 +936,7 @@
       - food for thought
   - consider
   - ponder
+  - puzzle over
   - contemplate
   - reflect on
   - examine
@@ -855,6 +948,10 @@
 
 + **idea**
   - idea
+  - concept
+    - conception
+    - misconception
+    - fallacy
   - premise *base idea*
   - inkling
   - notion
@@ -937,8 +1034,10 @@
   - bemuse
   - mistify
 
-+ aftermath
-  - *consequences* [ramifier~form branches] ramifications
++ **consequence**
+  - consequence
+  - ramification
+  - implication
 
 + **hope**
   - hope

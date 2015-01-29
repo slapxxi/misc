@@ -1,43 +1,7 @@
-# Projects
+# Personal Projects
 
-What projects I develop depends on what skills I need to master. In order to gain most out of every project I create, I need to.
+I have no idea how I can use freshly acquired words in my writing. However, I have an idea of how to improve the quality of my writing in general. In order to do that I have to slow down and consider my words. Even better, before writing thoughts down, put some thoughts on them and consider using expressions and idioms I didn't use before.
 
-It's extremely difficult to think of what projects to develop because I have no idea what's interesting to me in this respect.
+I should approach my personal projects more meticulously and do my best to make my work better with each attempt. Also, I should not give up on projects too early. Every time I give on a project prematurely I lose the opportunity to learn useful skills and enjoy finishing a project.
 
-All I know if I want to become a better developer, I need to develop real world projects that use technologies and methodologies that are required at jobs around the world. So, it's wise to develop projects in order to improve specific skills.
-
-The question is what skills I need to train. Here are the skills I want to acquire and master:
-
-## Rails Projects
-
-I want to easily develop web applications in Rails, but it is just a framework with numerous features that can be useful in various applications, so it's difficult to think about a specific application to use Rails for. However, I can develop applications to improve knowledge of specific Rails features such as `ActiveRecord`, `ActiveJob`, `ActionView` etc.
-
-- ActiveRecord and SQL
-- ActionView and templates
-- Security
-- Working with sessions
-- Writing API for an existing application
-- Railties and Rack
-
-## Ruby Projects
-
-I need to master the following areas of knowledge in Ruby in order to be a better programmer:
-
-- Network programming
-- Machine learning
-- Programming with Rack
-- Files, sockets, and other low-level entities
-- Working with processes
-- Testing using RSpec and supporting libraries such as Capybara, FactoryGirl etc.
-
-## Writing Projects
-
-I write about things I'm interested in. The more things interest me, the more variable articles I can write. So, in order to write a lot and write about something I enjoy, I need to diversify the areas of my interest.
-
-Here are the things I'm currently interested in:
-
-- Software development
-- Effective learning
-- Math
-
-I can't write about those topics in general. To write fluently and interestingly, I need to choose a narrow and specific topic within those areas and write about it in order to improve my knowledge, generate new ideas, and exchange ideas with the community.
+It's difficult to write in English but it's totally worth it. I often dream about being a successful author because an ability to write clearly all the time attracts me. That's the sole reason I want to be an author and write regularly.
