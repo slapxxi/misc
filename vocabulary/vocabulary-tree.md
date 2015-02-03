@@ -1,5 +1,112 @@
 # Tree
 
++ **decent**
+  - decent
+  - satisfactory
+  - reasonable
+  - sufficient
+
++ **large**
+  - large
+  - huge
+  - vast *extremely large in area, size, amount etc.*
+    - in vast numbers
+    - in the vast majority of
+
++ **happen**
+  - happen
+  - befall *sth unpleasant happen to sb*
+  - occur
+  - transpire *to happen*
+
++ **depend**
+  - depend
+    - independent
+    - discrete
+    - separate
+  - rely
+  - hinge on *depend completely on*
+  - contingent on *depending on sth that may or may not happen*
+
++ **heart**
+  - heart
+  - heart of the matter
+  - in the very heart of *in centre*
+  - break sb's heart
+  - by heart *using only memory*
+    - by rote
+    - verbatim
+      - word for word
+      - letter for letter
+  - wholeheartedly
+
++ **refuse**
+  - refuse
+  - turn down
+  - decline *refuse politely*
+    - decline an offer, invitation
+  - reject *refuse to accept or consider*
+    - firmly rejected
+
++ **cross**
+  - cross
+  - intersect
+  - traverse *cross an area of land or water*
+
++ **allow**
+  - allow
+    - allowance *permitted amount*
+    - make allowances
+  - enable
+  - give the means
+
++ **stare**
+  - stare
+  - gaze
+
++ **train**
+  - train
+  - teach
+  - mentor
+
++ **goal**
+  - goal
+    - attain, achieve goal
+    - set yourself some goals
+  - objective
+  - task
+  - aim
+  - target
+    - hit the target
+
++ **benefit**
+  - benefit
+    - beneficial
+    - advantageous *good or useful in particular situation*
+    - valuable
+    - rewarding
+  - profit
+
++ **important**
+  - important
+  - prominent *important or well-known*
+  - significant
+
++ **continue**
+  - continue
+    - continuous *happening for a period of time without interruption*
+    - continuity *fact of not stopping*
+      - discontinuity
+  - proceed
+  - carry on
+  - go on
+
++ **enough**
+  - enough
+  - plenty of
+  - ample *enough or more than enough*
+    - amply
+
 + **control**
   - control
     - under control
@@ -11,13 +118,20 @@
   - oppose
     - opponent
     - adversary
-  - opposite
-    - adverse
+    - opposite
+  - object to
+  - conflict
+    - come into conflict
+    - conflicting
+    - in conflict with
+    - conflict of interest
+  - contrast
+    - contrasting
 
 + **regret**
   - regret
     - regret
-    - compunction
+    - compunction *guilty feeling about doing sth*
   - be sorry about
   - feel contrite about
   - feel remorse about
@@ -26,14 +140,16 @@
   - fame
     - famous
   - renown
-    - renowned
+    - renowned *famous and respected*
   - eminence
-    - eminent
+    - eminent *famous and respected in particular profession*
 
 + **occupy**
   - occupy
     - occupation
-    - preoccupation
+    - preoccupation *state of thinking about sth continuously*
+    - obsession
+    - fixation *very strong interest that is not normal*
 
 + **mature**
   - mature
@@ -131,7 +247,7 @@
   - entice *persuade by offering sth*
   - lure *persuade or trick by promising a reward*
     - allure
-  - trick
+  - coax into
 
 + **complex**
   - complex
@@ -167,7 +283,6 @@
     - have a vague impression, memory, recollection of sth
     - vagueness
     - vaguely
-      - slightly
   - unclear
   - muddy
     - muddy the waters *make a simple situation confused*
@@ -273,6 +388,8 @@
       - abridge *make shorter by leaving parts*
         - unabridged
   - little
+  - slight *very small in degree*
+    - not the slightest
   - tiny
 
 + **mother**
@@ -283,6 +400,8 @@
 
 + **serious**
   - serious
+  - earnest *very serious and sincere*
+    - in earnest *more seriously and with more force*
   - dire *very serious*
   - severe *extremely serious*
   - grim *looking or sounding very serious*
@@ -348,6 +467,7 @@
     - inspired
     - ingenious
     - visionary
+  - encourage
 
 + **fight**
   - fight
@@ -385,7 +505,6 @@
   - mean
     - meaning
       - meaningful
-      - significant
       - relevant
       - worthwhile
       - telling
@@ -604,6 +723,8 @@
 
 + **differ**
   - differ
+    - different
+      - distinct *clearly different*
     - difference
     - disparity
   - vary
@@ -815,7 +936,7 @@
         - inexpedient
   - avail
   - exploit
-  - harness
+  - harness *use strength of sth to achieve*
   - utilize
   - employ
 
@@ -839,8 +960,8 @@
   - rehearse
 
 + **support**
-  - approve
-  - endorse
+  - approve *think sth is good or acceptable*
+  - endorse *say publicly that you support sth*
   - fund
   - finance
     - financier
@@ -1007,6 +1128,7 @@
       - easy to come by
       - make easier
         - facilitate
+        - simplify
   - relieve *remove unpleasant feeling*
   - alleviate *make less severe*
   - mitigate *make less harmful*
@@ -1022,15 +1144,10 @@
 
 + **confuse**
   - confuse
-    - confusing
   - baffle
-    - baffling
   - bewilder
-    - bewildering
   - perplex
-    - perplexing
-  - [together+mix] confound
-    > The sudden rise in share prices has confounded economists.
+  - confound *confuse*
   - bemuse
   - mistify
 
@@ -1046,20 +1163,20 @@
     - be hopeful of
     - hopefully
   - expect
-    - expectation
-      - meet expectations
+    - meet expectations
+    - unexpected
+    - sudden
   - anticipate
+    - unanticipated
 
 + **want**
   - want
   - wish
   - aspire
-    - aspiration
-    - aspiring
   - desire
-    - desirable
   - crave for
   - yearn for
+  - long for
   - have hunger for
 
 + **predict**
@@ -1075,23 +1192,24 @@
 
 + **obey**
   - obey
+    - disobey
+    - defy *refuse to obey*
     - obedience
   - follow
   - comply with
-    - compliance
-      - in compliance with
+    - in compliance with
   - adhere to *stick firmly to sth*
   - abide by *act according to*
 
 + **fire**
   - fire
     - catch fire
-  - incendiary [set fire to]
+  - incendiary *set fire to*
   - heat
     - haze
   - blaze
     - blazing
-      - blazingly
+    - blazingly
   - flame
 
 + **pose**
